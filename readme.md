@@ -1,5 +1,9 @@
 # A data warehouse for movies
 
+
+https://github.com/Faiq-Shahzad/Cinema_Data_WareHouse_And_Mining/assets/85623366/284bd5ac-a4ea-4435-9c0e-d26e85b3394f
+
+
 ## Instructions
 
 ### Setup Environment and TOOLS
